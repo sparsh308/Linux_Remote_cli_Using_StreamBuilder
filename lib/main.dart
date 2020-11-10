@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
           appBar: AppBar(
-            title: Text("Firebase Redhat Integration"),
+            title: Text("Firebase Redhat Integration "),
           ),
           body: mybody()),
     );
